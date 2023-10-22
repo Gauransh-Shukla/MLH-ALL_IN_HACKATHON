@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 from textblob import TextBlob
 import random
 
-# Theme customization MUST be the first streamlit command.
+# Theme customization
 st.set_page_config(
     page_title="CBT Assistant App",
     layout="centered",
