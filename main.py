@@ -12,7 +12,7 @@ import random
 
 # Theme customization
 st.set_page_config(
-    page_title="CBT Assistant App",
+    page_title="CBT Assistant Assistant",
     layout="centered",
     initial_sidebar_state="expanded",
     page_icon=None,
