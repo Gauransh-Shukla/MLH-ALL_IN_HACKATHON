@@ -51,7 +51,7 @@ def main():
 
 
     if choice == 'Home':
-        st.header('Welcome to the CBT App!')
+        st.header('Welcome to the CBT Assistant!')
         
         st.write('This app assists you with Cognitive Behavioral Therapy (CBT) exercises and helps track your emotions and thoughts over time.')
         st.subheader("Today's Affirmation:")
