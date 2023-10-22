@@ -5,7 +5,10 @@ Sentiment Analysis
 <img width="821" alt="image" src="https://github.com/Gauransh-Shukla/MLH-ALL_IN_HACKATHON/assets/76826317/457bf462-ee4b-4e0e-af21-138afe3fb489">
 
 # Data Visualization
-<img width="1276" alt="image" src="https://github.com/Gauransh-Shukla/MLH-ALL_IN_HACKATHON/assets/76826317/3be52cd1-222a-4686-b30c-af82aceb4c42">
+<img width="1280" alt="image" src="https://github.com/Gauransh-Shukla/MLH-ALL_IN_HACKATHON/assets/76826317/a1320243-da2f-4bde-85d4-fa1fdce30a42">
+
+<img width="1280" alt="image" src="https://github.com/Gauransh-Shukla/MLH-ALL_IN_HACKATHON/assets/76826317/2bd2cf33-c1c4-430f-a912-9c8debdfce28">
+
 
 # Feedback
 <img width="1271" alt="image" src="https://github.com/Gauransh-Shukla/MLH-ALL_IN_HACKATHON/assets/76826317/7ea273ac-f5af-4c96-a0b6-0ae5bd4aabe7">
